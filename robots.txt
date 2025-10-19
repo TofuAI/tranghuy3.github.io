@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tofuai.github.io/tranhuy3.github.io/sitemap.xml
